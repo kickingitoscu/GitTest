@@ -6,3 +6,5 @@ song = {
 def print_dict(dict):
 	for key in dict:
 		print dict[name]
+
+print_dict(song)
